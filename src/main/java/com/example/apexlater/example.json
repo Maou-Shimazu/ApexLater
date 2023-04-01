@@ -1,0 +1,312 @@
+{
+  "data": {
+    "platformInfo": {
+      "platformSlug": "origin",
+      "platformUserId": "Wolf_Stiker",
+      "platformUserHandle": "Wolf_Stiker",
+      "platformUserIdentifier": "Wolf_Stiker",
+      "avatarUrl": "https://secure.download.dm.origin.com/production/avatar/prod/1/599/208x208.JPEG",
+      "additionalParameters": null
+    },
+    "userInfo": {
+      "userId": null,
+      "isPremium": false,
+      "isVerified": false,
+      "isInfluencer": false,
+      "isPartner": false,
+      "countryCode": null,
+      "customAvatarUrl": null,
+      "customHeroUrl": null,
+      "socialAccounts": [],
+      "pageviews": 0,
+      "isSuspicious": null
+    },
+    "metadata": {
+      "currentSeason": 16,
+      "activeLegend": "legend_9",
+      "activeLegendName": "Octane",
+      "activeLegendStats": [
+        "Kills",
+        "Wins",
+        "Damage"
+      ],
+      "isGameBanned": false,
+      "isOverwolfAppUser": false,
+      "steamInfo": {
+        "displayName": "LimeHeadTV"
+      }
+    },
+    "segments": [
+      {
+        "type": "overview",
+        "attributes": {},
+        "metadata": {
+          "name": "Lifetime"
+        },
+        "expiryDate": "2023-03-31T07:01:44.6130797+00:00",
+        "stats": {
+          "level": {
+            "rank": null,
+            "percentile": 68,
+            "displayName": "Level",
+            "displayCategory": "Combat",
+            "category": null,
+            "description": null,
+            "metadata": {},
+            "value": 328,
+            "displayValue": "328",
+            "displayType": "Unspecified"
+          },
+          "kills": {
+            "rank": null,
+            "percentile": 54,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": null,
+            "description": null,
+            "metadata": {},
+            "value": 497,
+            "displayValue": "497",
+            "displayType": "Unspecified"
+          },
+          "damage": {
+            "rank": null,
+            "percentile": 55,
+            "displayName": "Damage",
+            "displayCategory": "Combat",
+            "category": null,
+            "description": null,
+            "metadata": {},
+            "value": 193544,
+            "displayValue": "193,544",
+            "displayType": "Unspecified"
+          },
+          "rankScore": {
+            "rank": null,
+            "percentile": 48,
+            "displayName": "Rank Score",
+            "displayCategory": "Game",
+            "category": null,
+            "description": null,
+            "metadata": {
+              "iconUrl": "https://trackercdn.com/cdn/apex.tracker.gg/ranks/gold2.png",
+              "rankName": "Gold 2"
+            },
+            "value": 6817,
+            "displayValue": "6,817",
+            "displayType": "Unspecified"
+          },
+          "arenaRankScore": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Arena Rank Score",
+            "displayCategory": "Game",
+            "category": null,
+            "description": null,
+            "metadata": {
+              "iconUrl": "https://trackercdn.com/cdn/apex.tracker.gg/ranks/bronze4.png",
+              "rankName": "Bronze 4"
+            },
+            "value": 0,
+            "displayValue": "0",
+            "displayType": "Unspecified"
+          },
+          "wins": {
+            "rank": null,
+            "percentile": 48,
+            "displayName": "Wins",
+            "displayCategory": "Game",
+            "category": null,
+            "description": null,
+            "metadata": {},
+            "value": 30,
+            "displayValue": "30",
+            "displayType": "Unspecified"
+          },
+          "peakRankScore": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Gold 2",
+            "displayCategory": null,
+            "category": null,
+            "description": null,
+            "metadata": {
+              "iconUrl": "https://trackercdn.com/cdn/apex.tracker.gg/ranks/gold2.png",
+              "rankName": "Gold 2",
+              "sectionLabel": "Season Peak"
+            },
+            "value": 6817,
+            "displayValue": "6,817",
+            "displayType": "Unspecified"
+          },
+          "lifetimePeakRankScore": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Gold 2",
+            "displayCategory": null,
+            "category": null,
+            "description": null,
+            "metadata": {
+              "iconUrl": "https://trackercdn.com/cdn/apex.tracker.gg/ranks/gold2.png",
+              "rankName": "Gold 2",
+              "sectionLabel": "Lifetime Peak"
+            },
+            "value": 6817,
+            "displayValue": "6,817",
+            "displayType": "Unspecified"
+          }
+        }
+      },
+      {
+        "type": "legend",
+        "attributes": {
+          "id": "legend_9"
+        },
+        "metadata": {
+          "name": "Octane",
+          "imageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/octane-tile.png",
+          "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/octane-tall.png",
+          "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/octane-concept-bg-small.jpg",
+          "portraitImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/portraits/octane.png",
+          "legendColor": "#80B662",
+          "isActive": true
+        },
+        "expiryDate": "2023-03-31T07:01:44.6130797+00:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 63,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": null,
+            "description": null,
+            "metadata": {},
+            "value": 472,
+            "displayValue": "472",
+            "displayType": "Unspecified"
+          },
+          "damage": {
+            "rank": null,
+            "percentile": 67,
+            "displayName": "Damage",
+            "displayCategory": "Combat",
+            "category": null,
+            "description": null,
+            "metadata": {},
+            "value": 193471,
+            "displayValue": "193,471",
+            "displayType": "Unspecified"
+          },
+          "wins": {
+            "rank": null,
+            "percentile": 52,
+            "displayName": "Wins",
+            "displayCategory": "Game",
+            "category": null,
+            "description": null,
+            "metadata": {},
+            "value": 30,
+            "displayValue": "30",
+            "displayType": "Unspecified"
+          }
+        }
+      },
+      {
+        "type": "legend",
+        "attributes": {
+          "id": "legend_8"
+        },
+        "metadata": {
+          "name": "Pathfinder",
+          "imageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/pathfinder-tile.png",
+          "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/pathfinder-tall.png",
+          "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/pathfinder-concept-bg-small.jpg",
+          "portraitImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/portraits/pathfinder.png",
+          "legendColor": "#7ECEEF",
+          "isActive": false
+        },
+        "expiryDate": "2023-03-31T07:01:44.6130797+00:00",
+        "stats": {}
+      },
+      {
+        "type": "legend",
+        "attributes": {
+          "id": "legend_15"
+        },
+        "metadata": {
+          "name": "Horizon",
+          "imageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/horizon-tile.png",
+          "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/horizon-tall.png",
+          "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/horizon-concept-bg-small.jpg",
+          "portraitImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/portraits/horizon.png",
+          "legendColor": "#3F69C0",
+          "isActive": false
+        },
+        "expiryDate": "2023-03-31T07:01:44.6130797+00:00",
+        "stats": {
+          "kills": {
+            "rank": null,
+            "percentile": 16,
+            "displayName": "Kills",
+            "displayCategory": "Combat",
+            "category": null,
+            "description": null,
+            "metadata": {},
+            "value": 25,
+            "displayValue": "25",
+            "displayType": "Unspecified"
+          },
+          "damage": {
+            "rank": null,
+            "percentile": 1,
+            "displayName": "Damage",
+            "displayCategory": "Combat",
+            "category": null,
+            "description": null,
+            "metadata": {},
+            "value": 73,
+            "displayValue": "73",
+            "displayType": "Unspecified"
+          },
+          "wins": {
+            "rank": null,
+            "percentile": null,
+            "displayName": "Wins",
+            "displayCategory": "Game",
+            "category": null,
+            "description": null,
+            "metadata": {},
+            "value": 0,
+            "displayValue": "0",
+            "displayType": "Unspecified"
+          }
+        }
+      },
+      {
+        "type": "legend",
+        "attributes": {
+          "id": "legend_1"
+        },
+        "metadata": {
+          "name": "Wraith",
+          "imageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/wraith-tile.png",
+          "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/wraith-tall.png",
+          "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/wraith-concept-bg-small.jpg",
+          "portraitImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/portraits/wraith.png",
+          "legendColor": "#624CA2",
+          "isActive": false
+        },
+        "expiryDate": "2023-03-31T07:01:44.6130797+00:00",
+        "stats": {}
+      }
+    ],
+    "availableSegments": [
+      {
+        "type": "legend",
+        "attributes": {},
+        "metadata": {}
+      }
+    ],
+    "expiryDate": "2023-03-31T07:01:44.6130797+00:00"
+  }
+}
