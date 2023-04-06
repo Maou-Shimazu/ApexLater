@@ -1,312 +1,592 @@
 {
-  "data": {
-    "platformInfo": {
-      "platformSlug": "origin",
-      "platformUserId": "Wolf_Stiker",
-      "platformUserHandle": "Wolf_Stiker",
-      "platformUserIdentifier": "Wolf_Stiker",
-      "avatarUrl": "https://secure.download.dm.origin.com/production/avatar/prod/1/599/208x208.JPEG",
-      "additionalParameters": null
+  "global": {
+    "name": "LimeHeadTTV",
+    "uid": 1010544859353,
+    "avatar": "",
+    "platform": "PC",
+    "level": 337,
+    "toNextLevelPercent": 73,
+    "internalUpdateCount": 7931,
+    "bans": {
+      "isActive": false,
+      "remainingSeconds": 0,
+      "last_banReason": "COMPETITIVE_DODGE_COOLDOWN"
     },
-    "userInfo": {
-      "userId": null,
-      "isPremium": false,
-      "isVerified": false,
-      "isInfluencer": false,
-      "isPartner": false,
-      "countryCode": null,
-      "customAvatarUrl": null,
-      "customHeroUrl": null,
-      "socialAccounts": [],
-      "pageviews": 0,
-      "isSuspicious": null
+    "rank": {
+      "rankScore": 3065,
+      "rankName": "Silver",
+      "rankDiv": 4,
+      "ladderPosPlatform": -1,
+      "rankImg": "https:\/\/api.mozambiquehe.re\/assets\/ranks\/silver4.png",
+      "rankedSeason": "season16_split_2"
     },
-    "metadata": {
-      "currentSeason": 16,
-      "activeLegend": "legend_9",
-      "activeLegendName": "Octane",
-      "activeLegendStats": [
-        "Kills",
-        "Wins",
-        "Damage"
-      ],
-      "isGameBanned": false,
-      "isOverwolfAppUser": false,
-      "steamInfo": {
-        "displayName": "LimeHeadTV"
+    "arena": {
+      "rankScore": 0,
+      "rankName": "Unranked",
+      "rankDiv": 0,
+      "ladderPosPlatform": -1,
+      "rankImg": "https:\/\/api.mozambiquehe.re\/assets\/ranks\/unranked4.png",
+      "rankedSeason": "arenas16_split_2"
+    },
+    "battlepass": {
+      "level": "-1",
+      "history": {
+        "season1": -1,
+        "season2": -1,
+        "season3": -1,
+        "season4": -1,
+        "season5": -1,
+        "season6": -1,
+        "season7": -1,
+        "season8": -1,
+        "season9": -1,
+        "season10": -1,
+        "season11": -1,
+        "season12": -1,
+        "season13": -1,
+        "season14": 111
       }
     },
-    "segments": [
+    "internalParsingVersion": 2,
+    "badges": [
       {
-        "type": "overview",
-        "attributes": {},
-        "metadata": {
-          "name": "Lifetime"
-        },
-        "expiryDate": "2023-03-31T07:01:44.6130797+00:00",
-        "stats": {
-          "level": {
-            "rank": null,
-            "percentile": 68,
-            "displayName": "Level",
-            "displayCategory": "Combat",
-            "category": null,
-            "description": null,
-            "metadata": {},
-            "value": 328,
-            "displayValue": "328",
-            "displayType": "Unspecified"
-          },
-          "kills": {
-            "rank": null,
-            "percentile": 54,
-            "displayName": "Kills",
-            "displayCategory": "Combat",
-            "category": null,
-            "description": null,
-            "metadata": {},
-            "value": 497,
-            "displayValue": "497",
-            "displayType": "Unspecified"
-          },
-          "damage": {
-            "rank": null,
-            "percentile": 55,
-            "displayName": "Damage",
-            "displayCategory": "Combat",
-            "category": null,
-            "description": null,
-            "metadata": {},
-            "value": 193544,
-            "displayValue": "193,544",
-            "displayType": "Unspecified"
-          },
-          "rankScore": {
-            "rank": null,
-            "percentile": 48,
-            "displayName": "Rank Score",
-            "displayCategory": "Game",
-            "category": null,
-            "description": null,
-            "metadata": {
-              "iconUrl": "https://trackercdn.com/cdn/apex.tracker.gg/ranks/gold2.png",
-              "rankName": "Gold 2"
-            },
-            "value": 6817,
-            "displayValue": "6,817",
-            "displayType": "Unspecified"
-          },
-          "arenaRankScore": {
-            "rank": null,
-            "percentile": null,
-            "displayName": "Arena Rank Score",
-            "displayCategory": "Game",
-            "category": null,
-            "description": null,
-            "metadata": {
-              "iconUrl": "https://trackercdn.com/cdn/apex.tracker.gg/ranks/bronze4.png",
-              "rankName": "Bronze 4"
-            },
-            "value": 0,
-            "displayValue": "0",
-            "displayType": "Unspecified"
-          },
-          "wins": {
-            "rank": null,
-            "percentile": 48,
-            "displayName": "Wins",
-            "displayCategory": "Game",
-            "category": null,
-            "description": null,
-            "metadata": {},
-            "value": 30,
-            "displayValue": "30",
-            "displayType": "Unspecified"
-          },
-          "peakRankScore": {
-            "rank": null,
-            "percentile": null,
-            "displayName": "Gold 2",
-            "displayCategory": null,
-            "category": null,
-            "description": null,
-            "metadata": {
-              "iconUrl": "https://trackercdn.com/cdn/apex.tracker.gg/ranks/gold2.png",
-              "rankName": "Gold 2",
-              "sectionLabel": "Season Peak"
-            },
-            "value": 6817,
-            "displayValue": "6,817",
-            "displayType": "Unspecified"
-          },
-          "lifetimePeakRankScore": {
-            "rank": null,
-            "percentile": null,
-            "displayName": "Gold 2",
-            "displayCategory": null,
-            "category": null,
-            "description": null,
-            "metadata": {
-              "iconUrl": "https://trackercdn.com/cdn/apex.tracker.gg/ranks/gold2.png",
-              "rankName": "Gold 2",
-              "sectionLabel": "Lifetime Peak"
-            },
-            "value": 6817,
-            "displayValue": "6,817",
-            "displayType": "Unspecified"
-          }
-        }
+        "name": "You're Tiering Me Apart: Ranked Season 15",
+        "value": 52
       },
       {
-        "type": "legend",
-        "attributes": {
-          "id": "legend_9"
-        },
-        "metadata": {
-          "name": "Octane",
-          "imageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/octane-tile.png",
-          "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/octane-tall.png",
-          "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/octane-concept-bg-small.jpg",
-          "portraitImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/portraits/octane.png",
-          "legendColor": "#80B662",
-          "isActive": true
-        },
-        "expiryDate": "2023-03-31T07:01:44.6130797+00:00",
-        "stats": {
-          "kills": {
-            "rank": null,
-            "percentile": 63,
-            "displayName": "Kills",
-            "displayCategory": "Combat",
-            "category": null,
-            "description": null,
-            "metadata": {},
-            "value": 472,
-            "displayValue": "472",
-            "displayType": "Unspecified"
-          },
-          "damage": {
-            "rank": null,
-            "percentile": 67,
-            "displayName": "Damage",
-            "displayCategory": "Combat",
-            "category": null,
-            "description": null,
-            "metadata": {},
-            "value": 193471,
-            "displayValue": "193,471",
-            "displayType": "Unspecified"
-          },
-          "wins": {
-            "rank": null,
-            "percentile": 52,
-            "displayName": "Wins",
-            "displayCategory": "Game",
-            "category": null,
-            "description": null,
-            "metadata": {},
-            "value": 30,
-            "displayValue": "30",
-            "displayType": "Unspecified"
-          }
-        }
+        "name": "Year 4 Team Player",
+        "value": 0
       },
       {
-        "type": "legend",
-        "attributes": {
-          "id": "legend_8"
-        },
-        "metadata": {
-          "name": "Pathfinder",
-          "imageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/pathfinder-tile.png",
-          "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/pathfinder-tall.png",
-          "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/pathfinder-concept-bg-small.jpg",
-          "portraitImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/portraits/pathfinder.png",
-          "legendColor": "#7ECEEF",
-          "isActive": false
-        },
-        "expiryDate": "2023-03-31T07:01:44.6130797+00:00",
-        "stats": {}
+        "name": "Year 4 Master",
+        "value": 0
       },
       {
-        "type": "legend",
-        "attributes": {
-          "id": "legend_15"
-        },
-        "metadata": {
-          "name": "Horizon",
-          "imageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/horizon-tile.png",
-          "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/horizon-tall.png",
-          "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/horizon-concept-bg-small.jpg",
-          "portraitImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/portraits/horizon.png",
-          "legendColor": "#3F69C0",
-          "isActive": false
-        },
-        "expiryDate": "2023-03-31T07:01:44.6130797+00:00",
-        "stats": {
-          "kills": {
-            "rank": null,
-            "percentile": 16,
-            "displayName": "Kills",
-            "displayCategory": "Combat",
-            "category": null,
-            "description": null,
-            "metadata": {},
-            "value": 25,
-            "displayValue": "25",
-            "displayType": "Unspecified"
-          },
-          "damage": {
-            "rank": null,
-            "percentile": 1,
-            "displayName": "Damage",
-            "displayCategory": "Combat",
-            "category": null,
-            "description": null,
-            "metadata": {},
-            "value": 73,
-            "displayValue": "73",
-            "displayType": "Unspecified"
-          },
-          "wins": {
-            "rank": null,
-            "percentile": null,
-            "displayName": "Wins",
-            "displayCategory": "Game",
-            "category": null,
-            "description": null,
-            "metadata": {},
-            "value": 0,
-            "displayValue": "0",
-            "displayType": "Unspecified"
-          }
-        }
+        "name": "Year 4 Devastator",
+        "value": 0
       },
       {
-        "type": "legend",
-        "attributes": {
-          "id": "legend_1"
-        },
-        "metadata": {
-          "name": "Wraith",
-          "imageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/wraith-tile.png",
-          "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/wraith-tall.png",
-          "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/wraith-concept-bg-small.jpg",
-          "portraitImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/portraits/wraith.png",
-          "legendColor": "#624CA2",
-          "isActive": false
-        },
-        "expiryDate": "2023-03-31T07:01:44.6130797+00:00",
-        "stats": {}
+        "name": "Wintertide Wipe Out",
+        "value": 0
+      },
+      {
+        "name": "Wintertide Restoration",
+        "value": 0
+      },
+      {
+        "name": "Spellbound Cut-Throat",
+        "value": 0
+      },
+      {
+        "name": "Spellbound",
+        "value": 0
+      },
+      {
+        "name": "Beast of Prey Exterminator",
+        "value": 0
+      },
+      {
+        "name": "Beast of Prey Devastator",
+        "value": 0
+      },
+      {
+        "name": "Beast of Prey",
+        "value": 0
       }
     ],
-    "availableSegments": [
-      {
-        "type": "legend",
-        "attributes": {},
-        "metadata": {}
+    "levelPrestige": 0
+  },
+  "realtime": {
+    "lobbyState": "open",
+    "isOnline": 0,
+    "isInGame": 0,
+    "canJoin": 0,
+    "partyFull": 0,
+    "selectedLegend": "Wraith",
+    "currentState": "offline",
+    "currentStateSinceTimestamp": -1,
+    "currentStateAsText": "Offline"
+  },
+  "legends": {
+    "selected": {
+      "LegendName": "Wraith",
+      "data": [],
+      "gameInfo": {
+        "skin": "Visualizer",
+        "skinRarity": "Rare",
+        "frame": "Big City Beats",
+        "frameRarity": "Epic",
+        "pose": "Out of Nowhere",
+        "poseRarity": "Common",
+        "intro": "Wanna win? Do what I do",
+        "introRarity": "Common",
+        "badges": [
+          {
+            "name": "You're Tiering Me Apart: Ranked Season 15",
+            "value": 52,
+            "category": "Account Badges"
+          },
+          {
+            "name": "Wraith's Wrath",
+            "value": 0,
+            "category": "Wraith"
+          },
+          {
+            "name": "Squad Wipe",
+            "value": 0,
+            "category": "Wraith"
+          }
+        ]
+      },
+      "ImgAssets": {
+        "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/wraith.png",
+        "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/wraith.jpg"
       }
-    ],
-    "expiryDate": "2023-03-31T07:01:44.6130797+00:00"
+    },
+    "all": {
+      "Revenant": {
+        "ImgAssets": {
+          "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/revenant.png",
+          "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/revenant.jpg"
+        }
+      },
+      "Crypto": {
+        "ImgAssets": {
+          "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/crypto.png",
+          "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/crypto.jpg"
+        }
+      },
+      "Horizon": {
+        "ImgAssets": {
+          "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/horizon.png",
+          "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/horizon.jpg"
+        }
+      },
+      "Gibraltar": {
+        "ImgAssets": {
+          "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/gibraltar.png",
+          "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/gibraltar.jpg"
+        }
+      },
+      "Wattson": {
+        "ImgAssets": {
+          "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/wattson.png",
+          "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/wattson.jpg"
+        }
+      },
+      "Fuse": {
+        "ImgAssets": {
+          "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/fuse.png",
+          "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/fuse.jpg"
+        }
+      },
+      "Bangalore": {
+        "data": [
+          {
+            "name": "Arenas Kills",
+            "value": 400,
+            "key": "arenas_kills",
+            "rank": {
+              "rankPos": 11882,
+              "topPercent": 26.47
+            },
+            "rankPlatformSpecific": {
+              "rankPos": 3765,
+              "topPercent": 32.39
+            }
+          },
+          {
+            "name": "Arenas Damage",
+            "value": 148718,
+            "key": "arenas_damage",
+            "rank": {
+              "rankPos": 10198,
+              "topPercent": 22.31
+            },
+            "rankPlatformSpecific": {
+              "rankPos": 3574,
+              "topPercent": 28.15
+            }
+          },
+          {
+            "name": "Arenas Wins",
+            "value": 87,
+            "key": "arenas_wins",
+            "rank": {
+              "rankPos": 7127,
+              "topPercent": 28.22
+            },
+            "rankPlatformSpecific": {
+              "rankPos": 2589,
+              "topPercent": 36.67
+            }
+          }
+        ],
+        "gameInfo": {
+          "badges": [
+            {
+              "name": "Bangalore's Arena",
+              "value": 4
+            }
+          ]
+        },
+        "ImgAssets": {
+          "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/bangalore.png",
+          "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/bangalore.jpg"
+        }
+      },
+      "Wraith": {
+        "gameInfo": {
+          "badges": [
+            {
+              "name": "Wraith's Wrath",
+              "value": 0
+            },
+            {
+              "name": "Squad Wipe",
+              "value": 0
+            }
+          ]
+        },
+        "ImgAssets": {
+          "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/wraith.png",
+          "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/wraith.jpg"
+        }
+      },
+      "Octane": {
+        "data": [
+          {
+            "name": "BR Kills",
+            "value": 480,
+            "key": "specialEvent_kills",
+            "rank": {
+              "rankPos": 710923,
+              "topPercent": 52.95
+            },
+            "rankPlatformSpecific": {
+              "rankPos": 296881,
+              "topPercent": 50.23
+            }
+          },
+          {
+            "name": "BR Damage",
+            "value": 197449,
+            "key": "specialEvent_damage",
+            "rank": {
+              "rankPos": 571163,
+              "topPercent": 51.26
+            },
+            "rankPlatformSpecific": {
+              "rankPos": 258848,
+              "topPercent": 49.16
+            }
+          },
+          {
+            "name": "BR Wins",
+            "value": 30,
+            "key": "specialEvent_wins",
+            "rank": {
+              "rankPos": 315209,
+              "topPercent": 46.79
+            },
+            "rankPlatformSpecific": {
+              "rankPos": 123803,
+              "topPercent": 41.2
+            }
+          }
+        ],
+        "gameInfo": {
+          "badges": [
+            {
+              "name": "Double Duty",
+              "value": 0
+            },
+            {
+              "name": "Octane's Wrath",
+              "value": 0
+            },
+            {
+              "name": "Squad Wipe",
+              "value": 0
+            }
+          ]
+        },
+        "ImgAssets": {
+          "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/octane.png",
+          "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/octane.jpg"
+        }
+      },
+      "Bloodhound": {
+        "data": [
+          {
+            "name": "BR Damage",
+            "value": 24912,
+            "key": "damage",
+            "rank": {
+              "rankPos": 1858399,
+              "topPercent": 87.26
+            },
+            "rankPlatformSpecific": {
+              "rankPos": 675169,
+              "topPercent": 89.58
+            }
+          },
+          {
+            "name": "Eye: Enemies scanned",
+            "value": 2623,
+            "key": "enemies_scanned",
+            "rank": {
+              "rankPos": 577790,
+              "topPercent": 44.06
+            },
+            "rankPlatformSpecific": {
+              "rankPos": 221044,
+              "topPercent": 47.06
+            }
+          },
+          {
+            "name": "BR Kills",
+            "value": 53,
+            "key": "specialEvent_kills",
+            "rank": {
+              "rankPos": 1565941,
+              "topPercent": 90.99
+            },
+            "rankPlatformSpecific": {
+              "rankPos": 566501,
+              "topPercent": 92.52
+            }
+          }
+        ],
+        "ImgAssets": {
+          "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/bloodhound.png",
+          "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/bloodhound.jpg"
+        }
+      },
+      "Caustic": {
+        "ImgAssets": {
+          "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/caustic.png",
+          "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/caustic.jpg"
+        }
+      },
+      "Lifeline": {
+        "data": [
+          {
+            "name": "BR Kills",
+            "value": 17,
+            "key": "specialEvent_kills",
+            "rank": {
+              "rankPos": 1207253,
+              "topPercent": 94.03
+            },
+            "rankPlatformSpecific": {
+              "rankPos": 375186,
+              "topPercent": 94.61
+            }
+          },
+          {
+            "name": "BR Damage",
+            "value": 10281,
+            "key": "specialEvent_damage",
+            "rank": {
+              "rankPos": 1123781,
+              "topPercent": 90.79
+            },
+            "rankPlatformSpecific": {
+              "rankPos": 356275,
+              "topPercent": 92.28
+            }
+          },
+          {
+            "name": "BR Wins",
+            "value": 4,
+            "key": "specialEvent_wins",
+            "rank": {
+              "rankPos": 593282,
+              "topPercent": 80.19
+            },
+            "rankPlatformSpecific": {
+              "rankPos": 195212,
+              "topPercent": 77.02
+            }
+          }
+        ],
+        "gameInfo": {
+          "badges": [
+            {
+              "name": "No One Left Behind",
+              "value": 0
+            }
+          ]
+        },
+        "ImgAssets": {
+          "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/lifeline.png",
+          "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/lifeline.jpg"
+        }
+      },
+      "Pathfinder": {
+        "ImgAssets": {
+          "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/pathfinder.png",
+          "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/pathfinder.jpg"
+        }
+      },
+      "Loba": {
+        "ImgAssets": {
+          "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/loba.png",
+          "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/loba.jpg"
+        }
+      },
+      "Mirage": {
+        "data": [
+          {
+            "name": "Bamboozles",
+            "value": 117,
+            "key": "bamboozles",
+            "rank": {
+              "rankPos": 374925,
+              "topPercent": 87.81
+            },
+            "rankPlatformSpecific": {
+              "rankPos": 104797,
+              "topPercent": 90.03
+            }
+          },
+          {
+            "name": "BR Kills",
+            "value": 14,
+            "key": "specialEvent_kills",
+            "rank": {
+              "rankPos": 917662,
+              "topPercent": 93.06
+            },
+            "rankPlatformSpecific": {
+              "rankPos": 236987,
+              "topPercent": 94.23
+            }
+          },
+          {
+            "name": "BR Damage",
+            "value": 6716,
+            "key": "specialEvent_damage",
+            "rank": {
+              "rankPos": 751562,
+              "topPercent": 93.38
+            },
+            "rankPlatformSpecific": {
+              "rankPos": 214308,
+              "topPercent": 93.85
+            }
+          }
+        ],
+        "ImgAssets": {
+          "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/mirage.png",
+          "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/mirage.jpg"
+        }
+      },
+      "Rampart": {
+        "ImgAssets": {
+          "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/rampart.png",
+          "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/rampart.jpg"
+        }
+      },
+      "Valkyrie": {
+        "ImgAssets": {
+          "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/valkyrie.png",
+          "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/valkyrie.jpg"
+        }
+      },
+      "Seer": {
+        "ImgAssets": {
+          "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/seer.png",
+          "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/seer.jpg"
+        }
+      },
+      "Ash": {
+        "ImgAssets": {
+          "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/ash.png",
+          "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/ash.jpg"
+        }
+      },
+      "Mad Maggie": {
+        "ImgAssets": {
+          "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/mad maggie.png",
+          "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/mad maggie.jpg"
+        }
+      },
+      "Newcastle": {
+        "ImgAssets": {
+          "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/newcastle.png",
+          "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/newcastle.jpg"
+        }
+      },
+      "Vantage": {
+        "ImgAssets": {
+          "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/vantage.png",
+          "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/vantage.jpg"
+        }
+      },
+      "Catalyst": {
+        "ImgAssets": {
+          "icon": "https:\/\/api.mozambiquehe.re\/assets\/icons\/catalyst.png",
+          "banner": "https:\/\/api.mozambiquehe.re\/assets\/banners\/catalyst.jpg"
+        }
+      }
+    }
+  },
+  "mozambiquehere_internal": {
+    "isNewToDB": false,
+    "claimedBy": "1680771559",
+    "APIAccessType": "BASIC",
+    "ClusterID": "4",
+    "rate_limit": {
+      "max_per_second": 2,
+      "current_req": null
+    },
+    "clusterSrv": "MAIN-CLUSTER-2"
+  },
+  "ALS": {
+    "isALSDataEnabled": false
+  },
+  "total": {
+    "arenas_kills": {
+      "name": "Arenas Kills",
+      "value": 400
+    },
+    "arenas_damage": {
+      "name": "Arenas Damage",
+      "value": 148718
+    },
+    "arenas_wins": {
+      "name": "Arenas Wins",
+      "value": 87
+    },
+    "specialEvent_kills": {
+      "name": "BR Kills",
+      "value": 564
+    },
+    "specialEvent_damage": {
+      "name": "BR Damage",
+      "value": 214446
+    },
+    "specialEvent_wins": {
+      "name": "BR Wins",
+      "value": 34
+    },
+    "damage": {
+      "name": "BR Damage",
+      "value": 24912
+    },
+    "enemies_scanned": {
+      "name": "Eye: Enemies scanned",
+      "value": 2623
+    },
+    "bamboozles": {
+      "name": "Bamboozles",
+      "value": 117
+    },
+    "kd": {
+      "value": "-1",
+      "name": "KD"
+    }
   }
 }
