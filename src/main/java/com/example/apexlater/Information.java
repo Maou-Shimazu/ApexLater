@@ -12,6 +12,10 @@ public class Information {
     Mozambique_Internal mozambiquehere_internal;
     ALS als; // add alias for this with the lib
     Total total;
+    private static class Imgassets {
+        private static String icon;
+        private static String banner;
+    }
 
     private static class Global {
         private static String name;
@@ -36,7 +40,14 @@ public class Information {
         private static String rankImg;
         private static String rankedSeason;
     }
-    private static class Arena {}
+    private static class Arena {
+        private static int rankScore;
+        private static String rankName;
+        private static int rankDiv;
+        private static int ladderPosPlatform;
+        private static String rankImg;
+        private static String rankedSeason;
+    }
     private static class Battlepass {
         private static String level;
         History history;
@@ -57,7 +68,7 @@ public class Information {
             private static int season14;
         }
     }
-    private static class Badges {}
+    private static class Badges {} // handle in constructor or elsewhere
     private static class Realtime {
         private static String lobbyState;
         private static int isOnline;
@@ -70,7 +81,40 @@ public class Information {
         private static String currentStateAsText;
 
     }
-    private static class Legends {}
+    private static class Legends {
+        Selected selected;
+        All all;
+        private static class Selected {
+            private static String LegendName;
+            private static String[] data;
+            GameInfo gameInfo;
+            private static class GameInfo {
+                private static String skin;
+                private static String skinRarity;
+                private static String frame;
+                private static String frameRarity;
+                private static String pose;
+                private static String poseRarity;
+                private static String intro;
+                private static String introRarity;
+
+            }
+            Imgassets ImgAssets;
+        }
+        private static class All {
+            LAssets Revenant;
+            LAssets Crypto;
+            LAssets Horizon;
+            LAssets Gibralter;
+            LAssets Wattson;
+            LAssets Fuse;
+            LAssets Bangalore;
+
+            private static class LAssets {
+                Imgassets ImgAssets;
+            }
+        }
+    }
     private static class Mozambique_Internal{}
     private static class ALS {}
     private static class Total {}
